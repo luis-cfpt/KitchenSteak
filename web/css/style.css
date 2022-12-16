@@ -93,16 +93,13 @@ main {
     flex-direction: column;
 }
 
-section:nth-child(1) {
-    background-color: aqua;
-    width: 100%;
-    height: 70%;
-}
-
 #bcgImg {
     width: 100%;
-    clip-path: inset(20% 0);
-    opacity: 70%;
+    height: 60%;
+    background-image: url(../img/tim-toomey-pe9dvM1rQkM-unsplash2k.png);
+    background-color: #401B1D;
+    background-repeat: no-repeat;
+    opacity: 70%;     
 }
 
 /* FOOTER */
